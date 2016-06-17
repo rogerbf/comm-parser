@@ -1,6 +1,6 @@
 {
   "name": "parse-comm",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Parse comm from ps output",
   "main": "./src/index.js",
   "eslintConfig": {

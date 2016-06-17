@@ -7,7 +7,7 @@ function parse (path) {
     return path
   }
   else if (extracted !== -1) {
-    return extracted
+    return extracted.slice(0, extracted.length - 1)
   }
   else {
     return -1
