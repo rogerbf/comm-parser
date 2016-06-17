@@ -10,7 +10,7 @@ function parse (path) {
     return extracted
   }
   else {
-    return new Error('comm does not contain ' + ext)
+    return -1
   }
 }
 
