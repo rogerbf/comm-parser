@@ -19,5 +19,14 @@
   "license": "MIT",
   "dependencies": {
     "string-concluding": "1.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerbf/comm-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rogerbf/comm-parser/issues"
+  },
+  "homepage": "https://github.com/rogerbf/comm-parser#readme"
 }
