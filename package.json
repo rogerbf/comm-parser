@@ -1,0 +1,23 @@
+{
+  "name": "parse-comm",
+  "version": "1.0.0",
+  "description": "Parse comm from ps output",
+  "main": "./src/index.js",
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 6
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rogerbf <roger@bergfalk.nu> (http://bergfalk.nu/)",
+  "license": "MIT",
+  "dependencies": {
+    "string-concluding": "1.0.1"
+  }
+}
